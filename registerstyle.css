@@ -50,6 +50,7 @@ body
 }
 .body .inputbox
 {
+    color:black;
     width: 100%;
     position: relative;
     height:50px;
@@ -74,6 +75,6 @@ body
 }
 .body .in
 {
-    color:white;
-    font: size 25px;
+    color: aliceblue;
+    font-size: 20px;
 }
