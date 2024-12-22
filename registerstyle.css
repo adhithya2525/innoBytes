@@ -13,7 +13,7 @@ body
     justify-content: center;
     align-items: center;
     min-height: 74vh;
-    background: url('rg_bg.jpg');
+    background: url('rg2_bg.avif');
 }
 .body h1
 {
@@ -27,6 +27,10 @@ body
     padding: 30px 40px;
     font-size: 35px;
     width: 23%;  
+    background: url('rg_bg.jpg');
+    border: none;
+    outline: none;
+    border-radius: 40px;
 }
 .inputbox input
 {
