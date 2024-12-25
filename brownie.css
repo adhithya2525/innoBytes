@@ -1,0 +1,56 @@
+.space2{
+    line-height: 1.8; 
+    font-family: Arial, sans-serif;
+}
+.upper5
+{
+    box-sizing: border-box;
+    width: 75%;
+    text-align: center;
+}
+.image-container {
+    position: relative; /* Allows absolute positioning of child elements */
+  }
+  
+  .image-text {
+    position:absolute; /* Position the text absolutely within the container */
+    top: 35%; /* Center text vertically */
+    left: 48%; /* Center text horizontally */
+    transform: translate(-50%, -50%); /* Adjust for center positioning */
+    color: white; /* Set text color (adjust as needed) */
+    background-color: rgba(0, 0, 0, 0.5); /* Add a semi-transparent background */
+    padding: 10px; /* Add padding around the text */
+  }
+  body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    margin: 20px;
+}
+.horizontal-line {
+    border-top: 2px solid #000000;
+    margin: 20px 0;
+}
+.content {
+    display: flex;
+    align-items: center; 
+    justify-content: center; 
+    gap: 10px;
+}
+.vertical-line {
+    border-left: 2px solid #000000;
+    height: 50px;
+    margin-right: -5px;
+}
+a {
+    color:orange;
+    text-decoration: none;
+    margin-right:-150px ;
+}
+a:hover {
+    text-decoration: underline;
+}
+
+.out1
+{
+ outline:auto gray;
+}

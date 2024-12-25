@@ -1,0 +1,45 @@
+.left1 {
+    font-family: Arial, sans-serif;
+   
+}
+.normal-spacing {
+    line-height: 1.8; 
+    font-family: Arial, sans-serif;
+}
+.upper2
+{
+    box-sizing: border-box;
+    width: 75%;
+    text-align: center;
+}
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    margin: 20px;
+}
+.horizontal-line {
+    border-top: 2px solid #000000;
+    margin: 20px 0;
+}
+.content {
+    display: flex;
+    align-items: center; /* Aligns items vertically */
+    justify-content: center; /* Centers items horizontally */
+    gap: 10px;
+}
+.vertical-line {
+    border-left: 2px solid #000000;
+    height: 50px;
+    margin-right: -5px;
+}
+a {
+    color:orange;
+    text-decoration: none;
+    margin-right:-150px ;
+}
+a:hover {
+    text-decoration: underline;
+}
+img{
+    border-radius:25px;
+}

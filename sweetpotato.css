@@ -1,0 +1,30 @@
+.space4{
+    line-height: 1.8; 
+    font-family: Arial, sans-serif;
+}
+.upper7
+{
+    box-sizing: border-box;
+    width: 75%;
+}
+.image-container {
+    position: relative; /* Allows absolute positioning of child elements */
+  }
+  
+  .image-text2 {
+    position:absolute; /* Position the text absolutely within the container */
+    top: 280%; /* Center text vertically */
+    left: 48%; /* Center text horizontally */
+    transform: translate(-46%, -48%); /* Adjust for center positioning */
+    color: white; /* Set text color (adjust as needed) */
+    background-color: rgba(0, 0, 0, 0.5); /* Add a semi-transparent background */
+    padding: 10px; /* Add padding around the text */
+  }
+  .out
+  {
+    outline: solid 5px gray;
+  }
+  img{
+    border-radius: 20px;
+  }
+   

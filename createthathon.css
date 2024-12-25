@@ -1,0 +1,62 @@
+.article
+{
+    box-sizing: border-box;
+    width: 50%;
+    text-align: center;
+    font-family: sans-serif;
+    color:black;
+}
+.first
+{
+    font-family: sans-serif;
+}
+.upper
+{
+    background-color: orange;
+    margin: 10px;
+    padding: 30px;
+    border-radius:40px;
+    
+}
+img:hover {
+    /* transform: scale(1.1);  */
+    opacity: 0.7;
+}
+a {
+    display: inline-block;
+    margin-top: 10px; 
+    text-decoration: none;
+    color: orange; 
+    font-size: 16px;
+    transition: color 0.3s;
+}
+a:hover{
+    text-decoration: underline;
+}
+.content {
+    display: flex;
+    justify-content: center; 
+    align-items: center; 
+    gap: 100px; 
+    margin: 10px;
+    padding: 0px;
+}
+.box {
+    width: 275px; 
+    padding: 10px;
+    background-color: gray;
+    border: 1px solid #ccc;
+    text-align: center;
+    margin: 0px;
+    border-radius: 40px;
+}
+.image-radius
+{
+    border-radius: 100%;
+}
+img{
+    border-radius: 40px;
+}
+body{
+    background-image: url("https://img.pikbest.com/wp/202344/watercolor-paper-texture-soothing-white-abstract-for-background-design_9922518.jpg!sw800");
+}
