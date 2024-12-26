@@ -1,6 +1,6 @@
 .space2{
     line-height: 1.8; 
-    font-family: cursive;
+    font-family:cursive;
     
 }
 .upper8
@@ -14,8 +14,22 @@ img
 {
    border-radius: 40px;
 }
-.spaceba{
-    margin: 15px;
+.image-container {
+    position: relative;
+  }
+  
+  .image-text {
+    position:absolute;
+    top: 26%;
+    left: 48%; 
+    transform: translate(-50%, -50%); 
+    color: white;
+    background-color: rgba(0, 0, 0, 0.5); 
+    padding: 10px; 
+  }
+  .out1
+{
+ outline:auto gray;
 }
 body{
     background-image: url("https://img.freepik.com/premium-photo/grunge-textures-backgrounds-white-texture-decorative-painted-surface_160901-4939.jpg");

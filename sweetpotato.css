@@ -1,6 +1,6 @@
 .space4{
     line-height: 1.8; 
-    font-family: Arial, sans-serif;
+    font-family:cursive;
 }
 .upper7
 {
@@ -8,17 +8,17 @@
     width: 75%;
 }
 .image-container {
-    position: relative; /* Allows absolute positioning of child elements */
+    position: relative; 
   }
   
   .image-text2 {
-    position:absolute; /* Position the text absolutely within the container */
-    top: 280%; /* Center text vertically */
-    left: 48%; /* Center text horizontally */
-    transform: translate(-46%, -48%); /* Adjust for center positioning */
-    color: white; /* Set text color (adjust as needed) */
-    background-color: rgba(0, 0, 0, 0.5); /* Add a semi-transparent background */
-    padding: 10px; /* Add padding around the text */
+    position:absolute; 
+    top: 280%; 
+    left: 48%; 
+    transform: translate(-46%, -48%); 
+    color: white; 
+    background-color: rgba(0, 0, 0, 0.5); 
+    padding: 10px; 
   }
   .out
   {
@@ -26,5 +26,9 @@
   }
   img{
     border-radius: 20px;
+  }
+  body{
+    background-image: url("https://img.freepik.com/premium-photo/grunge-textures-backgrounds-white-texture-decorative-painted-surface_160901-4939.jpg");
+    margin :5px 55px;
   }
    

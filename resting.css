@@ -1,10 +1,18 @@
 .space {
     line-height: 1.8; 
-    font-family: Arial, sans-serif;
+    font-family: cursive;
 }
 .upper3
 {
     box-sizing: border-box;
     width: 75%;
     text-align: center;
+}
+.text1
+{
+    font-family: cursive;
+}
+body{
+    background-image: url("https://img.freepik.com/premium-photo/grunge-textures-backgrounds-white-texture-decorative-painted-surface_160901-4939.jpg");
+    margin :5px 55px;
 }

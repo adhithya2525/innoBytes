@@ -1,6 +1,6 @@
 .space1{
     line-height: 1.8; 
-    font-family: Arial, sans-serif;
+    font-family:cursive;
 }
 .upper4
 {
@@ -10,4 +10,8 @@
 }
 a{
     color:orange;
+}
+body{
+    background-image: url("https://img.freepik.com/premium-photo/grunge-textures-backgrounds-white-texture-decorative-painted-surface_160901-4939.jpg");
+    margin :5px 55px;
 }
